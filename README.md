@@ -1,1 +1,1 @@
-# Simple-Playfair-Cipher-Cpp
+# simple-playfair-cipher-cpp
